@@ -1,5 +1,5 @@
-# Group 3
-# CSC 495 DATA MINING
+
+# DATA MINING
 # project 1
 
 # Test case
