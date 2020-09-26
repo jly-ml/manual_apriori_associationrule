@@ -1,6 +1,5 @@
-#Group 3
-#TEAM MEMBERS: [Jennifer ly,
-#CSC 495 DATA MINING
+
+#DATA MINING
 #project 1
 
 # FUNCTION SET
